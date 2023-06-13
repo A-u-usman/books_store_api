@@ -1,6 +1,11 @@
 package main
 
 import (
+	"github.com/A-u-usman/books_strore_api/config"
+	controller "github.com/A-u-usman/books_strore_api/controllers"
+	"github.com/A-u-usman/books_strore_api/middleware"
+	"github.com/A-u-usman/books_strore_api/repository"
+	service "github.com/A-u-usman/books_strore_api/services"
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"
 )

@@ -1,6 +1,7 @@
 package repository
 
 import (
+	entity "github.com/A-u-usman/books_strore_api/entities"
 	"gorm.io/gorm"
 )
 

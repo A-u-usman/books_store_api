@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"os"
 
+	entity "github.com/A-u-usman/books_strore_api/entities"
 	"github.com/joho/godotenv"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"

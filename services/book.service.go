@@ -5,6 +5,7 @@ import (
 	"log"
 
 	"github.com/A-u-usman/books_strore_api/dto"
+	entity "github.com/A-u-usman/books_strore_api/entities"
 	"github.com/A-u-usman/books_strore_api/repository"
 	"github.com/mashingan/smapping"
 )
